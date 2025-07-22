@@ -1,7 +1,7 @@
 ## Hello | ようこそ | Hola 👩🏻‍💻
 ## professional junior data engineer making random things that interest me, and also, have utility. i recently finished a job application tracking app to aid users in their job search, be mindful to do their research on the company and role, job search tips, and remind them when to reach out to their potential employer. i am passionate about helping junior engineers land their first technical role by sharing my own experience and the wisdom i have graciously received from others to make it happen! when left to my own devices, i enjoy making full stack web apps in vue.js that share my experiences or pique my interest... in whatever quirky way that might be.
 
-## when i'm not slouching over a computer, i enjoy improving my proficiency in japanese and spanish, interior decorating, reading nonfiction, and hanging out with my cat, boo boo. ✨🥰
+## when i'm not slouching over a computer, i enjoy improving my proficiency in japanese and spanish, exploring the world and immersing in new cultures, interior decorating, reading nonfiction, and hanging out with my cat, boo boo. ✨🥰
 <!--
 **briannalytical/briannalytical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
