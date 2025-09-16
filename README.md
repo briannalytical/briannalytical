@@ -1,4 +1,4 @@
-## Hello | ようこそ | Hola 👩🏻‍💻
+## Hello | よろしく | Hola 👩🏻‍💻
 ## data engineer with a background in fullstack web development in java & vue.js, API development in C#/.NET, and Python here to make random things that provide utility, tell a story, are just goofy... or maybe a little of each. my most recent work a job application tracking app to aid users in their job search, to be mindful to do their research on the company and role, job search tips, and remind them when to reach out to their potential employer. i am passionate about helping junior engineers land their first technical role by sharing my own experience and the wisdom i have graciously received from others to make it happen!
 
 ## when i'm not slouching over a computer, i'm probably improving my proficiency in japanese and spanish, exploring the world and immersing in new cultures, interior decorating, reading nonfiction, and hanging out with my cat, boo boo. ✨🥰
