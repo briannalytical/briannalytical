@@ -1,4 +1,2 @@
-## Hello | よろしく | Hola 👩🏻‍💻
-## data engineer with a background in fullstack web development in java & vue.js, API development in C#/.NET, and Python here to make random things that provide utility, tell a story, are just goofy... or maybe a little of each. my most recent passion project is a job application tracking app to aid users in their job search; it logs each user's applications along with information about the company and contacts, calculates tasks to follow up with their application, tracks interview dates and times, and teaches the user proper job seeking strategies and etiquette. as someone new to tech, i am passionate about helping new engineers find their path. as i have been fortunate enough to have had a lot of help along the way, i don't take it for granted and am always seeking ways to pay it forward.
-
-## when i'm not slouching over a computer, i'm probably improving my proficiency in japanese and spanish, exploring the world and immersing in new cultures, playing piano and singing, reading nonfiction, and hanging out with my cat, boo boo. ✨🥰
+## Hello | こんにちは | Hola
+## data engineer by day, goofy app builder by night
