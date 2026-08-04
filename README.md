@@ -1,2 +1,2 @@
 ## Hello | こんにちは | Hola
-## data engineer by day, goofy app builder by night
+## data engineer by profession; goofy app builder at heart
